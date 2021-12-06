@@ -5,6 +5,9 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../../../../../Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.27.jar!/" />
+    </excluded>
     <jarDirectory url="file://$PROJECT_DIR$/../../../../../Program Files (x86)/MySQL/Connector J 8.0" recursive="false" />
   </library>
 </component>
